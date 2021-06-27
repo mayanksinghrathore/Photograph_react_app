@@ -3,12 +3,12 @@ import 'firebase/storage';
 import 'firebase/firestore';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyDrRl5fqnbE5RtlewdHBwPMoNoL_kAVjg4",
-  authDomain: "photograph-50565.firebaseapp.com",
-  projectId: "photograph-50565",
-  storageBucket: "photograph-50565.appspot.com",
-  messagingSenderId: "304637270344",
-  appId: "1:304637270344:web:85df7f9cfba747fa413b7d"
+  apiKey: "AIzaSyAoo__KJWKxbwkjTLUHEl8jJF4UtD2B3kA",
+  authDomain: "photograph-af70f.firebaseapp.com",
+  projectId: "photograph-af70f",
+  storageBucket: "photograph-af70f.appspot.com",
+  messagingSenderId: "668261535130",
+  appId: "1:668261535130:web:3044d637d9fcf60f5f7e23"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
