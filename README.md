@@ -1,1 +1,1 @@
-#Photograph react app.
+Photograph react app
